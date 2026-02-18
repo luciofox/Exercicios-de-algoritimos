@@ -7,7 +7,8 @@ Desafio: Crie um programa que leia o nome completo de uma pessoa e mostre:
 - Quantas letras ao TO-DO; Sem considerar espaços.
 - Quantas letras tem o primeiro nome.
 '''
-nome = str(input('Digite seu nome completo: ')) # Lembre-se sempre da função ".strip()"
+nome = str(input('Digite seu nome completo: ')).strip()
+# Lembre-se sempre da função ".strip()"
 print('Analisando seu nome...')
 print('Seu nome em maiúsculas é {}.'.format(nome.upper())) # ING é 'upper'
 print('Seu nome em minúsculas é {}.'.format(nome.lower())) # ING é 'lower'
