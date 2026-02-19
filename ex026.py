@@ -18,3 +18,7 @@ print('A 1ª vez que a letra "a" apareceu na posição {}.'.format(frase.find('A
 
 print('A última letra "a" apareceu na posição {}.'.format(frase.rfind('A')+1))
 # 5º Comment: O quê é 'r' em "rfind"? Signifca, começar a procurar do lado direito (ING: right)
+
+# Comentário final (lições abaixo):
+# Lição¹: "O usuário é a pior raça que tem; Ele vai fazer o que for possível p/ o seu programa parar de funcionar.";
+# Lição²: Siga o fluxo e preveja erros!
