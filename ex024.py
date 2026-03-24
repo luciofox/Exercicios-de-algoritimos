@@ -1,6 +1,6 @@
-cid = str(input('Em que cidade você nasceu? R.: ')).strip()
+# cid = str(input('Em que cidade você nasceu? R.: ')).strip()
 # NOTA & Comentário: ".strip()" elimina o ESPAÇO! Portanto, o ponha no início.
-
+print("yiuyiuyfyf")
 # Comentário PROF.: Atente-se à programação aceitar Minúsculo e Maiúsculo;
 # [CONTINUAÇÃO] Como também, pode ter ESPAÇO no início. Isso vai dar erro!
 
